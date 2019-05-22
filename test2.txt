@@ -1,3 +1,7 @@
 这是通过VScode创建的文件。
 这是在GitHub上修改的内容。
+<<<<<<< HEAD
 在VScode上修改的内容。
+=======
+在GitHub上第二次修改。
+>>>>>>> c6e6e464b8f503bd8cdfdab62aa4ef88f715ceb9
